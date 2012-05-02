@@ -1,0 +1,2 @@
+#lang racket
+((lambda (a + b)(+ b a)) 2 * 4)
